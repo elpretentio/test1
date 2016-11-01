@@ -1,0 +1,23 @@
+/*
+      Author: Robert WIlliams
+      Date: 10.19.2016
+      Purpose: Assignment 3
+*/
+body { background-color: #1a0000; 
+    color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h1{ color:white;
+    text-align:center;
+}
+
+h2 { background-color: #ff0000;	
+}
+
+a:visited { color: #ffcccc;	
+}
+
+img {display: block;
+	margin: 15px auto;
+}
