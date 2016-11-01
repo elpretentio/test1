@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+	<!--Author: Robert Arthur Williams
+		Date: 10.19.2016
+		Purpose: Assignment 3-->
+		
+	<head>
+		<meta charset="UTF-8">
+		<title>Robert Williams' Page</title>
+		<link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+	<body>
+	
+	<h1>Robert Arthur Williams III</h1>
+	
+		<h2>Bio</h2>
+		
+			<p>I was born in Los Angeles, CA in 1984. Even though I grew up in the Los Angeles area,
+			as an adult I lived in San Francisco and Portland for several years each, respectively.
+			My original course of study when I hegan school in San Francisco was Political Science,
+			but now it is Computer Science and I am enjoying it. My hobbies include music production 
+			and DJing.
+			</p>
+			
+			<p>for more info on me, check out my facebook: 
+			<a href="https://www.facebook.com/robertarthurwilliamsthethird" target="_blank">Robert Williams</a>
+			</p>
+		
+		<h2>Albums That Inspire</h2>
+		
+		<p>Here is a list of some of the albums that inspire me when it comes to music production (in no particular order):</p>
+		
+			<ul>
+				<li>Aphex Twin - Selected Ambient Works (Volumes I and II)</li>
+				<li>Brian Eno - Another Green World</li>
+				<li>Squarepusher - Go Plastic</li>
+				<li>Radiohead - Kid A</li>
+				<li>Aphex Twin - Syro</li>
+			</ul>
+			
+		<h2>Favorite Images</h2>
+		
+		<p>Here are some of my favorite images. I am a keen on aesthetics.</p>
+		
+		<br>
+		<br>
+		
+		<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/14212090_10102006124148038_6606461210549948310_n.jpg?oh=3bca0f64566305ed557cb880bd41603e&oe=5864DB53" alt="image1">
+		<br>
+		<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/14054210_10101968592561638_4539888861584825775_n.jpg?oh=c7da8976dabfe32416bfc395aefe5a0b&oe=58977E08" alt="image2">
+		<br>
+		<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/1455185_10100797081030138_1505841577_n.jpg?oh=de0401ac235c26cd6c96182e1829bd6f&oe=58984F8A" alt="image3">
+		<br>
+		<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/1380244_10100751899853578_1474788320_n.jpg?oh=a9a0b845745a22be40fff5f95ee1dfac&oe=589BB02E" alt="image4">
+		<br>
+		<img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/1239705_10100747518054738_1432098431_n.jpg?oh=298035e64d8ebc6ad33db865e614fbb0&oe=58AC409C" alt="image5">
+		<br>
+		
+		
+	</body>
+	
+</html>
+	
+	
