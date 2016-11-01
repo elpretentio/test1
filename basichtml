@@ -2,13 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!--Author: Robert Arthur Williams
-		Date: 10.19.2016
-		Purpose: Assignment 3-->
+	<!--Author: Robert Arthur Williams-->
 		
 	<head>
 		<meta charset="UTF-8">
-		<title>Robert Williams' Page</title>
+		<title>Robert Williams</title>
 		<link rel="stylesheet" type="text/css" href="styles.css">
 	</head>
 	<body>
